@@ -10,9 +10,9 @@ Complete as a team and designate a team lead to submit to the group assignment l
 - Ajmal Jalal
 - Aliaksei Matsarski
 
-**Team Leader/Representative:** Ajmal Jalal
+**Team Leader/Representative:** Aliaksei Matsarski
 
-**Team GitHub Link:** https://github.com/ajmaljalal/AAI521-ObjectTracking-Project
+**Team GitHub Link:** 
 
 **Additional Cloud Services:** Google Drive (for video dataset storage and sharing)
 
